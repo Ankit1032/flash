@@ -7,7 +7,9 @@ public class Alien {
 		Calculator c1 = new Calculator();
 		
 		System.out.println("ADD: "+c1.add(6, 4));
-		System.out.println("SUB: "+c1.add(8, 3));
+		System.out.println("SUB: "+c1.sub(8, 3));
+		System.out.println("MUL: "+c1.mul(3, 9));
+		
 	}
 
 }
